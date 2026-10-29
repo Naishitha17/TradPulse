@@ -1,0 +1,13 @@
+target/
+*.class
+*.log
+tradepulse.db
+tradepulse.db*
+test-tradepulse*
+dependency-reduced-pom.xml
+.idea/
+*.iml
+.vscode/
+.env
+.DS_Store
+Thumbs.db
