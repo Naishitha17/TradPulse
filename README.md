@@ -1,4 +1,4 @@
-# ⚡ TradePulse Nexus — Complete Java Desktop Trading Platform
+# ⚡ TradePulse — Complete Java Desktop Trading Platform
 
 [![Java Version](https://img.shields.io/badge/Java-21%20LTS-007396?logo=openjdk&logoColor=white)](https://adoptium.net)
 [![JavaFX](https://img.shields.io/badge/JavaFX-21.0.4-orange?logo=java)](https://openjfx.io)
@@ -7,7 +7,7 @@
 [![Tests](https://img.shields.io/badge/Tests-JUnit%205%20Passing-25A162?logo=junit5&logoColor=white)](https://junit.org/junit5/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
-**TradePulse Nexus** is an advanced, production-grade Java desktop trading terminal and financial simulation ecosystem built with **Java 21 LTS**, **JavaFX 21**, **SQLite / PostgreSQL**, and **Maven**. Designed as a high-performance portfolio application, it delivers professional fintech visual design, realistic multi-threaded market simulation, atomic virtual order execution, interactive candlestick charting, social trading community with private messaging, and administrative moderation.
+**TradePulse** is an advanced, production-grade Java desktop trading terminal and financial simulation ecosystem built with **Java 21 LTS**, **JavaFX 21**, **SQLite / PostgreSQL**, and **Maven**. Designed as a high-performance portfolio application, it delivers professional fintech visual design, realistic multi-threaded market simulation, atomic virtual order execution, interactive candlestick charting, social trading community with private messaging, and administrative moderation.
 
 ---
 
@@ -15,7 +15,7 @@
 
 ```
 ┌──────────────────────────────────────────────────────────────────────────────────────────────────┐
-│                                       TRADEPULSE NEXUS TERMINAL                                  │
+│                                       TRADEPULSE TERMINAL                                  │
 ├─────────────────┬────────────────────────────────────────────────────────────────┬───────────────┤
 │    SIDEBAR      │                         MAIN WORKSPACE                         │ MARKET INSIGHT│
 │  ─────────────  │  ────────────────────────────────────────────────────────────  │ ───────────── │
